@@ -1,6 +1,8 @@
 # hm-database
 
-Fellesbibliotek for databaseintegrasjon i Team Hjelpemiddelbehov.
+Fellesbibliotek for databaseintegrasjon i DigiHoT.
+
+NB! Flyttet til [https://github.com/navikt/hotlibs](https://github.com/navikt/hotlibs).
 
 ## Kom i gang
 
